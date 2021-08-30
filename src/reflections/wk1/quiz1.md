@@ -21,7 +21,7 @@ make new directory
 <!-- enter you answer in the space below -->
 
 ```
-
+root element
 ```
 
 **4.** What does `HTML` stand for?
@@ -84,7 +84,7 @@ ul,ol,dl
 <!-- enter you answer in the space below -->
 
 ```
-
+allows items with in a container move relative other items in the same container
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
