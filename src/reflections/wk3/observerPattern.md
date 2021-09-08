@@ -11,3 +11,5 @@ it gives you a way to keep track of update information and having selected thing
 the subscribe method ,the unsubscribe and the Broadcast method
 
 ---
+
+**afternoon chalange partner(Joshua Moore):**https://joshuasmoore.github.io/Sporting-Good-Store/

@@ -18,3 +18,5 @@ to prevent us from getting undefined we need to set a trap that tells or get to 
 proxys act as a bodyguard between data we want to acces so if we have data we dont want easily accesed we can put a proxy over tahat wich requires you to request accases to that info through the proxy
 
 ---
+
+**afternoon chalange link:**https://dariusdeah.github.io/fall21-gregslist/
