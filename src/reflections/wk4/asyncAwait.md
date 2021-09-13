@@ -13,4 +13,4 @@ to use the await keyword within the function we must append async to the begenin
 
 some of the benifits of async/await is that its easier to read and its easier to debugg because the system treats it as synchronous code
 
-**pokedex** will be uploaded
+**pokedex** https://dariusdeah.github.io/pokedex/
