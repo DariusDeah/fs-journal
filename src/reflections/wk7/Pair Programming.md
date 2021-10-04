@@ -8,4 +8,4 @@ Pair programing is the when two developers work on one workstation/computer one 
 
 ---
 
-**https://github.com/DariusDeah/bugReport**
+## **https://github.com/DariusDeah/sprintr**
